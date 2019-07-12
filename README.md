@@ -19,4 +19,6 @@ https://leecamp.com/
 https://commoncensored.libsyn.com
 https://www.artkillingapathy.com
 
-<a href="https://leecamp.com/"><img src="https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic128%2Fv4%2F3d%2Fa7%2F89%2F3da7892b-1e22-cfb2-4282-d2007a47c679%2Fsource%2F1200x630bb.jpg">https://leecamp.com/</a>
+<a href="https://leecamp.com/"><img src="https://secureimg.stitcher.com/feedimagesplain328/181389.jpg" alt="https://leecamp.com/">
+
+<a href="https://leecamp.com/"><img src="https://www.davidpakman.com/wp-content/uploads/2016/03/tdps-logo.png" alt="David Pakman">
