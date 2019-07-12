@@ -1,18 +1,14 @@
-#() Common Censored Podcast<br>
+#Common Censored Podcast<br>
 #Lee Camp<br>
 #Eleanor Goldfield<br>
 
-KODI / XBMC / Firestick addon for the Common Censored podcasts
+KODI / XBMC / Firestick audio addon for the Common Censored podcasts
 
 With Lee Camp and Eleanor Goldfield.
 Censored stories, sensible solutions and common ground movements to fight and build.
-
-To install this addon, either use the Kodi Github installer addon or save the .zip file downloaded from the 'clone or download' button to somewhere the Kodi can access. Then on the Kodi, go to addons > install from zip file.
 And sometimes other stuff too.
 
-#CommonCensored<br>
-#LeeCamp<br>
-#EleanorGoldfield<br>
+To install this addon, either use the Kodi Github installer addon or save the .zip file downloaded from the 'clone or download' button to somewhere the Kodi can access. Then on the Kodi, go to addons > install from zip file.
 
 https://leecamp.com/<br>
 https://commoncensored.libsyn.com<br>
