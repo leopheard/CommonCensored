@@ -20,5 +20,3 @@ https://commoncensored.libsyn.com<br>
 https://www.artkillingapathy.com<br>
 
 <a href="https://leecamp.com/"><img src="https://secureimg.stitcher.com/feedimagesplain328/181389.jpg" alt="https://leecamp.com/">
-
-<a href="https://leecamp.com/"><img src="https://www.davidpakman.com/wp-content/uploads/2016/03/tdps-logo.png" alt="David Pakman">
