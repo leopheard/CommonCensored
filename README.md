@@ -1,7 +1,6 @@
 #() Common Censored Podcast
-- Lee Camp<br>
-- Elanor Goldfield<br>
-
+#Lee Camp<br>
+#Eleanor Goldfield<br>
 
 KODI / XBMC / Firestick addon for the Common Censored podcasts
 
