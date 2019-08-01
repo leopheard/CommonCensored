@@ -76,7 +76,7 @@ def get_playable_podcast1(soup):
     """
     subjects = []
 
-    for content in soup.find_all('item', limit=1):
+    for content in soup.find_all('item', limit=3):
         
         try:        
             link = content.find('enclosure')
