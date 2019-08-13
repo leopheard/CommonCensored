@@ -3,7 +3,7 @@
 #Lee Camp<br>
 #Eleanor Goldfield<br>
 
-KODI / XBMC / Firestick audio addon for the <a href="https://commoncensored.libsyn.com">Common Censored</a> podcasts<br>
+<a href="www.kodi.tv">KODI</a> / XBMC / Firestick audio addon for the <a href="https://commoncensored.libsyn.com">Common Censored</a> podcasts<br>
 
 With Lee Camp and Eleanor Goldfield. Censored stories, sensible solutions and common ground movements to fight and build. And sometimes other stuff too.<br>
 
