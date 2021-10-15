@@ -2,6 +2,6 @@ git add .
 
 git commit -m "upload"
 
-git push -u origin master
+git push -u -f origin master
 
 read
